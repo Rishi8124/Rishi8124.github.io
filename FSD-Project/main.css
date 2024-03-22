@@ -17,14 +17,14 @@ body{
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 750px;
+    height: 690px;
     position: relative;
 
 }
 
 
 .main .box {
-    height: 750px;
+    height: 690px;
     width: 100%;
     opacity: 0.69;
     position: absolute;
