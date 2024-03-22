@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Hindi:ital@0;1&display=swap');
+
 *{
     margin:0;
     padding:0;
@@ -7,6 +9,7 @@
 
 body{
     background-color:black;
+    font-family: 'Martel Sans';
 }
 
 .main {
@@ -16,6 +19,7 @@ body{
     background-repeat: no-repeat;
     height: 690px;
     position: relative;
+
 }
 
 
@@ -57,7 +61,6 @@ body{
 
 .bold1{
     font-size: 46px;
-    font-family: 'IBM Plex Sans', sans-serif;
     font-weight: 700;
     position: relative;
     z-index:3;
@@ -66,12 +69,10 @@ body{
 .norm1{
     font-size: 22px;
     font-weight: 100;
-    font-family: 'Martel Sans';
 }
 .norm2{
     font-size: 18px;
     font-weight: 100;
-    font-family: 'Martel Sans', sans-serif;
     margin-top: 20px;
 }
 
